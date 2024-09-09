@@ -1,6 +1,6 @@
 # Microsoft Fabric Playground: PySpark, Spark SQL & Datasets
 
-Welcome to the **Microsoft Fabric Playground** repository! This project is designed to offer a hands-on introduction to PySpark and Spark SQL within the Microsoft Fabric environment. Whether you're a beginner in big data processing or an experienced developer looking to enhance your skills, this repository provides practical experience using real datasets and PySpark scripts.
+Explore PySpark and Spark SQL in Microsoft Fabric with this hands-on playground. Whether you're new to big data or looking to sharpen your skills, this repository offers practical experience using real datasets and scripts.
 
 ## Contents
 
